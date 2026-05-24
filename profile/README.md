@@ -86,8 +86,6 @@ Use an AI coding agent for:
 Avoid using an AI coding agent blindly for:
 
 - Safety-critical hardware behavior
-- High-voltage control logic
-- Unreviewed chemical or device-processing automation
 - Sensitive/private/proprietary code
 - Anything that could damage equipment if wrong
 
